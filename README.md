@@ -269,6 +269,7 @@ file:///Users/tomoyashibazaki/karate-helloworld/myproject/target/karate-reports/
 ```
 
 ### browser
+<img width="1440" alt="Screen Shot 2021-06-29 at 0 53 19" src="https://user-images.githubusercontent.com/24289696/123668048-ac64ea00-d875-11eb-8e8a-08114482e56c.png">
 
 ## reference
 - https://github.com/intuit/karate
